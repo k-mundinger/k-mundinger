@@ -1,2 +1,2 @@
-Hi, I'm Konrad. I'm interested in stochastic analysis and machine learning.
+I'm interested in stochastic analysis, machine learning and music.
 
